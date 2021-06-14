@@ -1,9 +1,0 @@
-,date,transc,name,qty,price,traded_pc
-0,"09 Jan, 2019",Purchase,GOTHIC CORPORATION,Qty 4984726,Price 133.05,% Traded 2.72
-1,"09 Jan, 2019",Purchase,THE DUKE ENDOWMENT,Qty 1804880,Price 133.05,% Traded 0.99
-2,"09 Jan, 2019",Purchase,GOTHIC HSP CORPORATION,Qty 1785202,Price 133.05,% Traded 0.97
-3,"09 Jan, 2019",Purchase,EMPLOYEES RETIREMENT PLAN OF DUKE UNIVERSITY,Qty 928331,Price 133.05,% Traded 0.51
-4,"09 Jan, 2019",Sell,GHI LTP LTD,Qty 4984726,Price 133.05,% Traded 2.72
-5,"09 Jan, 2019",Sell,GHI JBD LTD,Qty 1804880,Price 133.05,% Traded 0.99
-6,"09 Jan, 2019",Sell,GHI HSP LTD,Qty 1785202,Price 133.05,% Traded 0.97
-7,"09 Jan, 2019",Sell,GHI ERP LTD,Qty 928331,Price 133.05,% Traded 0.51
