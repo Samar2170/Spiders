@@ -1,0 +1,7 @@
+,date,transc,name,qty,price,traded_pc
+0,"13 Feb, 2008",Purchase,TATA SONS LTD,Qty 5000000,Price 599.35,% Traded 9.88
+1,"13 Feb, 2008",Sell,TATA CHEMICALS LTD,Qty 5000000,Price 599.35,% Traded 9.88
+2,"15 Nov, 2006",Purchase,TATA SONS LTD,Qty 937615,Price 385.6,% Traded 1.85
+3,"15 Nov, 2006",Sell,TATA TEA LTD,Qty 937615,Price 385.6,% Traded 1.85
+4,"29 Sep, 2006",Purchase,TATA SONS LTD,Qty 1556423,Price 382.65,% Traded 3.08
+5,"29 Sep, 2006",Sell,TATA TEA LTD,Qty 1556423,Price 382.65,% Traded 3.08

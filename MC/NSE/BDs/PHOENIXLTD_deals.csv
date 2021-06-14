@@ -1,0 +1,9 @@
+,date,transc,name,qty,price,traded_pc
+0,"23 Apr, 2007",Purchase,ASHOK APPARELS PVT LTD,Qty 484824,Price 1590,% Traded 0.28
+1,"23 Apr, 2007",Purchase,RHODES DIVERSIFIED,Qty 135000,Price 1575,% Traded 0.08
+2,"23 Apr, 2007",Purchase,ASHOK APPARELS PVT LTD,Qty 100474,Price 1590,% Traded 0.06
+3,"23 Apr, 2007",Sell,B R INTERNATIONAL,Qty 484824,Price 1590,% Traded 0.28
+4,"23 Apr, 2007",Sell,ATUL ASHOKKUMAR RUIA,Qty 135000,Price 1575,% Traded 0.08
+5,"23 Apr, 2007",Sell,BHARAT R.RUIA,Qty 100474,Price 1590,% Traded 0.06
+6,"17 Apr, 2007",Purchase,SMIT CAPITAL SERVICES PVT LTD,Qty 75000,Price 1550,% Traded 0.04
+7,"17 Apr, 2007",Sell,ATUL ASHOKUMAR RUIA,Qty 75000,Price 1550,% Traded 0.04

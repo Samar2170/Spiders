@@ -1,0 +1,22 @@
+# Created September, 01, 2006.
+# Author: Jai P Sharma
+# Email : jai.sharma[at]naukri.com
+# Edited : Sept 26, 2016
+
+User-agent: *
+
+Disallow:/advertiser/
+Disallow:/preview/
+Disallow:/photo/
+Disallow:/Photo/
+Disallow:/profilePic/
+Disallow:/manager/checkEmail.php
+Disallow:/ni/manager/Check/email
+Disallow:/gpw/
+Disallow:/jg/
+Disallow:/lls/tm/
+Disallow:/alljobs/job/
+Disallow:/om.php
+Disallow:/j2.php
+
+Sitemap: https://www.naukri.com/sitemap.xml

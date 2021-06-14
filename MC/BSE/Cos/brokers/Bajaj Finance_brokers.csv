@@ -1,0 +1,7 @@
+,date,recm,rec_price,trgt_price
+0,"21 Jan, 2021",BUY,Reco Price 5116.65,Target Price 5900
+1,"20 Jan, 2021",BUY,Reco Price 4981.15,Target Price 6000
+2,"20 Jan, 2021",ACCUMULATE,Reco Price 4981.15,Target Price 5340
+3,"20 Jan, 2021",NEUTRAL,Reco Price 4981.15,Target Price 5000
+4,"05 Jan, 2021",ACCUMULATE,Reco Price 5121.00,Target Price 5491
+5,"01 Dec, 2020",BUY,Reco Price 4857.20,Target Price 5900

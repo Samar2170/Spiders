@@ -1,0 +1,5 @@
+,date,recm,rec_price,trgt_price
+0,"31 Jan, 2021",BUY,Reco Price 515.25,Target Price 620
+1,"29 Jan, 2021",ACCUMULATE,Reco Price 515.25,Target Price 550
+2,"29 Jan, 2021",REDUCE,Reco Price 515.25,Target Price 540
+3,"29 Jan, 2021",BUY,Reco Price 515.25,Target Price 605

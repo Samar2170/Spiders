@@ -1,0 +1,5 @@
+,date,recm,rec_price,trgt_price
+0,"21 Jan, 2021",ACCUMULATE,Reco Price 1132.20,Target Price 1300
+1,"21 Jan, 2021",HOLD,Reco Price 1132.20,Target Price 1126
+2,"21 Jan, 2021",NEUTRAL,Reco Price 1132.20,Target Price 1100
+3,"21 Jan, 2021",HOLD,Reco Price 1132.20,Target Price 1255

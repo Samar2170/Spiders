@@ -1,0 +1,7 @@
+,date,recm,rec_price,trgt_price
+0,"11 Jan, 2021",HOLD,Reco Price 3175.05,Target Price 3337
+1,"11 Jan, 2021",BUY,Reco Price 3175.05,Target Price 3586
+2,"09 Jan, 2021",HOLD,Reco Price 3120.35,Target Price 3150
+3,"09 Jan, 2021",NEUTRAL,Reco Price 3120.35,Target Price 3175
+4,"09 Jan, 2021",BUY,Reco Price 3120.35,Target Price 3600
+5,"08 Jan, 2021",REDUCE,Reco Price 3120.35,Target Price 3300

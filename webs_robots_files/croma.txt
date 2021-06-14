@@ -1,0 +1,23 @@
+User-agent: *
+
+Allow: /*
+Disallow: *?sort=*
+Disallow: /list/
+Disallow: */list/
+Disallow: /checkLoginRedirectPage
+Disallow: /checkATPLiveStatus
+Disallow: /loggedInUserName
+Disallow: /setPinfromCookie
+Disallow: /login
+Disallow: /cart
+Disallow: /search
+Disallow: /nv/
+Disallow: /nv-mobile/
+Disallow: *?context=*
+Disallow: *.php*
+Disallow: */quickView*
+Disallow: */persang-pk-8162-dzire-wireless-karaoke-player-black-/p/203622*
+Disallow: *?cm_sp
+Disallow: */zoomImages$
+Disallow: *?q=
+Sitemap: https://www.croma.com/sitemap.xml

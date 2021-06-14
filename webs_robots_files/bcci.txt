@@ -1,0 +1,3070 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
+        <meta name="theme-color" content="#0193ee">
+
+        <meta name="twitter:title" content="The Board of Control for Cricket in India"/>
+<meta name="twitter:creator:id" content="185142711"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="The Board of Control for Cricket in India"/>
+<meta name="twitter:site" content="@bcci"/>
+<meta name="twitter:url" content="www.bcci.tv/robots.txt"/>
+<meta property="og:url" content="www.bcci.tv/robots.txt"/>
+<meta property="og:title" content="The Board of Control for Cricket in India"/>
+<title>The Board of Control for Cricket in India</title>
+
+
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="BOARD OF CONTROL FOR CRICKET IN INDIA">
+        <meta name="apple-mobile-web-app-title" content="BOARD OF CONTROL FOR CRICKET IN INDIA">
+        <meta name="msapplication-navbutton-color" content="#0193ee">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="msapplication-starturl" content="/">
+
+        
+
+
+	<title>The Board of Control for Cricket in India</title>
+    
+
+
+
+
+
+
+
+
+
+
+        
+        
+<link rel="manifest" href="//www.bcci.tv/resources/prod/v2.0.0/manifest.json" >
+<script src="https://translations.platform.bcci.tv/bcci/en.js" charset="UTF-8"></script>
+
+<link rel="icon" sizes="192x192" type="image/png"
+	href="/resources/prod/v2.0.0/i/icons/bcci-192x192.png">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57"
+	href="/resources/prod/v2.0.0/i/icons/bcci-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60"
+	href="/resources/prod/v2.0.0/i/icons/bcci-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72"
+	href="/resources/prod/v2.0.0/i/icons/bcci-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76"
+	href="/resources/prod/v2.0.0/i/icons/bcci-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114"
+	href="/resources/prod/v2.0.0/i/icons/bcci-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120"
+	href="/resources/prod/v2.0.0/i/icons/bcci-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144"
+	href="/resources/prod/v2.0.0/i/icons/bcci-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152"
+	href="/resources/prod/v2.0.0/i/icons/bcci-152x152.png" />
+
+<link rel="icon" type="image/png"
+	href="/resources/prod/v2.0.0/i/favicon/favicon-196x196.png" sizes="196x196" />
+
+<link rel="icon" type="image/png"
+	href="/resources/prod/v2.0.0/i/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png"
+	href="/resources/prod/v2.0.0/i/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png"
+	href="/resources/prod/v2.0.0/i/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png"
+	href="/resources/prod/v2.0.0/i/favicon/favicon-128x128.png" sizes="128x128" />
+<link rel="shortcut icon"
+	href="/resources/prod/v2.0.0/i/favicon/favicon.ico" />
+
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<script>
+	window.RESOURCE_VERSION = 'v2.0.0';
+	window.ENVIRONMENT = 'prod';
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-18615481-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-18615481-1');
+</script>
+
+
+        
+<link rel="stylesheet" href="/resources/prod/v2.0.0/styles/screen.css" />
+
+        <!-- Service Worker Registration -->
+        <script>"serviceWorker"in navigator&&window.addEventListener("load",function(){navigator.serviceWorker.register("/sw.js?resourcePath=v2.0.0").then(function(e){console.log("ServiceWorker successfully registered with scope: ",e.scope)},function(e){console.error("ServiceWorker registration failed: ",e)})});</script>
+
+    </head>
+    <body class="js-body-content">
+
+        
+<div class="top-bar">
+    <div class="top-bar__left">
+        <span class="top-bar__text">Show me BCCI.tv in:</span>
+        <a href="#!" class="language-switcher" data-widget="language-switcher">हिंदी</a>
+    </div>
+    <div class="top-bar__middle">
+        <span class="top-bar__text">
+            The Board of Control for Cricket in India
+        </span>
+    </div>
+    <div class="top-bar__right">
+            <ul class="top-bar__menu">
+                    <li class="top-bar__item">
+                        <a href="https://www.iplt20.com/"
+                            target="_blank" rel="noopener"
+                            class="top-bar__link">
+                            IPLT20
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-external-link"></use>
+	</svg>
+                        </a>
+                    </li>
+            </ul>
+    </div>
+</div>
+
+    <div class="navigation " data-widget="main-navigation" data-script="bcci-tv_navigation">
+        <div class="navigation__container">
+            <div class="navigation__header">
+                <a href="#!" class="language-switcher" data-widget="language-switcher">हिंदी</a>
+                <a href="/" class="navigation__logo">
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-bcci-logo"></use>
+	</svg>
+                    BCCI
+                </a>
+                <button class="navigation__header-button menu-button js-navigation-menu-button">
+                    <span class="menu-button__text">Close</span>
+                    <div class="menu-button__line"></div>
+                    <div class="menu-button__line"></div>
+                    <div class="menu-button__line"></div>
+                    <span class="u-screen-reader">Open or Close menu</span>
+    	        </button>
+            </div>
+            <div class="navigation__menu-container">
+                <div class="navigation__tagline">
+                    The Board of Control for Cricket in India
+                </div>
+                <div class="navigation__menu-wrapper">
+                    <nav class="navigation__menu js-navigation-menu" role="navigation">
+                        <ul class="navigation__list">
+                                <li class="navigation__item  ">
+                                        <div class="navigation__link navigation__link--has-drop-down js-navigation-link"
+                                            data-nav-index="0">
+                                            International
+	<svg class="icon navigation__caret-down">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-caret-down"></use>
+	</svg>
+                                            <div class="navigation__expand"></div>
+                                        </div>
+                                        <div class="navigation__drop-down drop-down drop-down--reveal-on-hover" tabindex="0">
+                                            <div class="drop-down__options">
+	<svg class="icon drop-down__options-dropdown-arrow">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-curved-pointer-top"></use>
+	</svg>
+                                                <ul>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/international/fixtures">
+                                                                Fixtures
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/international/results">
+                                                                Results
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/international/series-and-tournaments">
+                                                                Series & Tournaments
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/international/archive">
+                                                                Archive
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                </li>
+                                <li class="navigation__item  ">
+                                        <div class="navigation__link navigation__link--has-drop-down js-navigation-link"
+                                            data-nav-index="1">
+                                            Domestic
+	<svg class="icon navigation__caret-down">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-caret-down"></use>
+	</svg>
+                                            <div class="navigation__expand"></div>
+                                        </div>
+                                        <div class="navigation__drop-down drop-down drop-down--reveal-on-hover" tabindex="0">
+                                            <div class="drop-down__options">
+	<svg class="icon drop-down__options-dropdown-arrow">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-curved-pointer-top"></use>
+	</svg>
+                                                <ul>
+                                                        <li class="drop-down__option u-hide ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/live/domestic">
+                                                                LIVE
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/domestic/fixtures">
+                                                                Fixtures
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/domestic/results">
+                                                                Results
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/domestic/series-and-tournaments">
+                                                                Series & Tournaments
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/domestic/archive">
+                                                                Archive
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                </li>
+                                <li class="navigation__item  ">
+                                        <div class="navigation__link navigation__link--has-drop-down js-navigation-link"
+                                            data-nav-index="2">
+                                            Videos
+	<svg class="icon navigation__caret-down">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-caret-down"></use>
+	</svg>
+                                            <div class="navigation__expand"></div>
+                                        </div>
+                                        <div class="navigation__drop-down drop-down drop-down--reveal-on-hover" tabindex="0">
+                                            <div class="drop-down__options">
+	<svg class="icon drop-down__options-dropdown-arrow">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-curved-pointer-top"></use>
+	</svg>
+                                                <ul>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/videos">
+                                                                Latest Videos
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/videos/highlights">
+                                                                Highlights
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/videos/features-and-interviews">
+                                                                Features & Interviews
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/videos/press-conferences">
+                                                                Press Conferences
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                </li>
+                                <li class="navigation__item  ">
+                                        <div class="navigation__link navigation__link--has-drop-down js-navigation-link"
+                                            data-nav-index="3">
+                                            Players
+	<svg class="icon navigation__caret-down">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-caret-down"></use>
+	</svg>
+                                            <div class="navigation__expand"></div>
+                                        </div>
+                                        <div class="navigation__drop-down drop-down drop-down--reveal-on-hover" tabindex="0">
+                                            <div class="drop-down__options">
+	<svg class="icon drop-down__options-dropdown-arrow">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-curved-pointer-top"></use>
+	</svg>
+                                                <ul>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/players/men">
+                                                                Team India Men
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/players/women">
+                                                                Team India Women
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                </li>
+                                <li class="navigation__item  ">
+                                        <div class="navigation__link navigation__link--has-drop-down js-navigation-link"
+                                            data-nav-index="4">
+                                            News
+	<svg class="icon navigation__caret-down">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-caret-down"></use>
+	</svg>
+                                            <div class="navigation__expand"></div>
+                                        </div>
+                                        <div class="navigation__drop-down drop-down drop-down--reveal-on-hover" tabindex="0">
+                                            <div class="drop-down__options">
+	<svg class="icon drop-down__options-dropdown-arrow">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-curved-pointer-top"></use>
+	</svg>
+                                                <ul>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/articles">
+                                                                Latest News
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/news/press-releases">
+                                                                Press Releases
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/news/features">
+                                                                Features
+                                                            </a>
+                                                        </li>
+                                                        <li class="drop-down__option  ">
+                                                            <a class="navigation__link navigation__link--in-drop-down"
+                                                                
+                                                                href="/news/bcci-news">
+                                                                BCCI News
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                </li>
+                                <li class="navigation__item  ">
+                                        <a class="navigation__link"
+                                            data-nav-index="5"
+                                            
+                                            href="/about">
+                                            About
+                                        </a>
+                                </li>
+                                <li class="navigation__item  ">
+                                        <a class="navigation__link"
+                                            data-nav-index="6"
+                                            
+                                            href="/albums">
+                                            Photo Galleries
+                                        </a>
+                                </li>
+                                <li class="navigation__item pulselive ">
+                                        <a class="navigation__link"
+                                            data-nav-index="7"
+                                            
+                                            href="/polls">
+                                            Polls
+                                        </a>
+                                </li>
+                                <li class="navigation__item  ">
+                                        <a class="navigation__link"
+                                            data-nav-index="8"
+                                            
+                                            href="/venues">
+                                            Venues
+                                        </a>
+                                </li>
+                        </ul>
+                        <div class="navigation__quicklinks u-show-tablet">
+                            
+    <div class="quicklinks " data-widget="quicklinks" data-script="bcci-tv_quicklinks">
+        <h3 class="quicklinks__title js-quicklinks-toggle">
+	<svg class="icon quicklinks__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-quicklinks"></use>
+	</svg>
+            <strong>Quick</strong>Links
+            <div class="navigation__expand u-show-tablet"></div>
+        </h3>
+        <nav class="quicklinks__menu">
+            <ul class="quicklinks__list">
+                    <li class="quicklinks__item">
+                        <a href="https://www.bcci.tv/domestic/23344/womens-senior-one-day-trophy-2020-21"
+                           
+                           class="quicklinks__link">
+                           Women's Senior One Day Trophy 2020-21: Points Table
+	<svg class="icon quicklinks__arrow-right">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-arrow-right"></use>
+	</svg>
+                        </a>
+                    </li>
+                    <li class="quicklinks__item">
+                        <a href="/articles/2020/news/146398/bcci-documentation"
+                           
+                           class="quicklinks__link">
+                           BCCI Documentation
+	<svg class="icon quicklinks__arrow-right">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-arrow-right"></use>
+	</svg>
+                        </a>
+                    </li>
+                    <li class="quicklinks__item">
+                        <a href="/articles/2020/news/146399/rfps-issued-by-bcci-and-ipl"
+                           
+                           class="quicklinks__link">
+                           Tender and RFP
+	<svg class="icon quicklinks__arrow-right">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-arrow-right"></use>
+	</svg>
+                        </a>
+                    </li>
+                    <li class="quicklinks__item">
+                        <a href="/about/jobs"
+                           
+                           class="quicklinks__link">
+                           Jobs
+	<svg class="icon quicklinks__arrow-right">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-arrow-right"></use>
+	</svg>
+                        </a>
+                    </li>
+            </ul>
+        </nav>
+    </div>
+
+                        </div>
+                    </nav>
+                </div>
+                <button class="navigation__search-open js-navigation-search-open"><span class="navigation__search-open-icon"></span></button>
+                <div class="navigation__search site-search">
+                    <form action="/search" type="GET" class="site-search__form js-navigation-search">
+                        <div class="site-search__go">
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-search"></use>
+	</svg>
+                            <input class="site-search__btn js-navigation-search-button u-hide"
+                                type="submit"
+                                value="search">
+                        </div>
+                        <input class="site-search__input js-navigation-search-input"
+                            type="search"
+                            name="term"
+                            placeholder="Search BCCI.tv"
+                            aria-label="Search through BCCI.tv content">
+                    </form>
+                </div>
+                <button class="navigation__sidebar-button js-navigation-sidebar-open">
+                    <span class="menu-button__text">Menu</span>
+                    <div class="menu-button">
+                        <div class="menu-button__line"></div>
+                        <div class="menu-button__line"></div>
+                        <div class="menu-button__line"></div>
+                    </div>
+                    <span class="u-screen-reader">Open or Close sidebar menu</span>
+                </button>
+                <div class="navigation__sidebar js-navigation-sidebar">
+                    <div class="navigation__top-bar">
+                        
+<div class="top-bar">
+    <div class="top-bar__left">
+        <span class="top-bar__text">Show me BCCI.tv in:</span>
+        <a href="#!" class="language-switcher" data-widget="language-switcher">हिंदी</a>
+    </div>
+    <div class="top-bar__middle">
+        <span class="top-bar__text">
+            The Board of Control for Cricket in India
+        </span>
+    </div>
+    <div class="top-bar__right">
+            <ul class="top-bar__menu">
+                    <li class="top-bar__item">
+                        <a href="https://www.iplt20.com/"
+                            target="_blank" rel="noopener"
+                            class="top-bar__link">
+                            IPLT20
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-external-link"></use>
+	</svg>
+                        </a>
+                    </li>
+            </ul>
+    </div>
+</div>
+
+                    </div>
+                    <div class="navigation__sidebar-header">
+	<svg class="icon navigation__sidebar-logo">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-bcci-logo"></use>
+	</svg>
+                        <button class="navigation__sidebar-close js-navigation-sidebar-close">
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-cross"></use>
+	</svg>
+                        </button>
+                    </div>
+                    <div class="navigation__sidebar-more js-navigation-sidebar-more-nav">
+                    </div>
+                    <div class="navigation__social">
+                        
+    <div class="social social--show-secondary-text">
+        <ul class="social__menu">
+                <li class="social__item">
+                    <a href="https://twitter.com/BCCI" class="social__link social__link--twitter">
+                            <span class="social__icon">
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-twitter"></use>
+	</svg>
+                            </span>
+                        <span class="social__text">
+                            BCCI on Twitter
+                                <span class="social__secondary-text">
+                                    @BCCI
+                                </span>
+                        </span>
+                    </a>
+                </li>
+                <li class="social__item">
+                    <a href="https://www.facebook.com/IndianCricketTeam/" class="social__link social__link--facebook">
+                            <span class="social__icon">
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-facebook"></use>
+	</svg>
+                            </span>
+                        <span class="social__text">
+                            BCCI on Facebook
+                                <span class="social__secondary-text">
+                                    @IndianCricketTeam
+                                </span>
+                        </span>
+                    </a>
+                </li>
+                <li class="social__item">
+                    <a href="https://www.instagram.com/indiancricketteam/" class="social__link social__link--instagram">
+                            <span class="social__icon">
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-instagram"></use>
+	</svg>
+                            </span>
+                        <span class="social__text">
+                            BCCI on Instagram
+                                <span class="social__secondary-text">
+                                    indiancricketteam
+                                </span>
+                        </span>
+                    </a>
+                </li>
+        </ul>
+    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="body-content">
+
+    
+
+
+
+
+
+
+
+<header class="page-header page-header--overlap" data-widget="lazy-load-images">
+
+	<img class="page-header__branding-asset--top branding-asset-top u-hide-phablet" src="/resources/prod/v2.0.0/i/svg-files/assets/top-right.svg" aria-hidden="true"/>
+	<img class="page-header__branding-asset--bottom branding-asset-bottom" src="/resources/prod/v2.0.0/i/svg-files/assets/bottom-left.svg" aria-hidden="true"/>
+
+
+    <div class="page-header__wrapper wrapper">
+        <h1 class="page-header__title">404 Page Not Found</h1>
+    </div>
+</header>
+
+
+<div class="page-content-container">
+    <div class="page-content wrapper">
+        <div class="page-content__top">
+            
+        </div>
+        <div class="page-content__inner">
+            
+
+
+
+
+
+
+    <section class="widget widget--with-footer">
+    <div class="slider " data-widget="content-slider">
+        <div class="widget__header  widget__header--no-link-to">
+                <h1 class="widget__heading"><strong>This</strong> Weeks Trending News</h1>
+
+            <div class="widget__cta">
+    <div class="slider__chev-container ">
+        <button class="slider__chev js-prev">
+	<svg class="icon slider__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-chevron-left"></use>
+	</svg>
+        </button>
+        <button class="slider__chev js-next">
+	<svg class="icon slider__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-chevron-right"></use>
+	</svg>
+        </button>
+
+    </div>
+            </div>
+        </div>
+        <ul class="news-list-tablet scroll-grid-phab block-list-4 block-list-2-tab block-list-1-phab js-slide slider__list">
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/154394/bcci-announces-annual-player-retainership-2020-21-team-india-senior-women-">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">1</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/05/19/d166651d-8f96-4359-ab06-684b6236532f/IMG_5678.JPG?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/19/d166651d-8f96-4359-ab06-684b6236532f/IMG_5678.JPG?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/05/19/d166651d-8f96-4359-ab06-684b6236532f/IMG_5678.JPG?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/19/d166651d-8f96-4359-ab06-684b6236532f/IMG_5678.JPG?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">BCCI announces annual player retainership 2020-21 - Team India (Senior Women)</h1>
+                <time class="thumbnail__date">19 May 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/154389/india-s-senior-women-squad-for-the-only-test-match-odi-t20i-series-against-england-announced">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">2</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/05/14/881a5187-684e-4547-8201-cfb13480369a/for-Press-Release.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/14/881a5187-684e-4547-8201-cfb13480369a/for-Press-Release.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/05/14/881a5187-684e-4547-8201-cfb13480369a/for-Press-Release.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/14/881a5187-684e-4547-8201-cfb13480369a/for-Press-Release.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">India’s Senior Women squad for the only Test match, ODI & T20I series against England announced</h1>
+                <time class="thumbnail__date">14 May 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/154387/ramesh-powar-appointed-head-coach-of-indian-women-s-cricket-team">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">3</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/05/13/f657d209-c6fd-46a5-9220-7879cfa2c907/ramesh-powar-photo-version-2.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/13/f657d209-c6fd-46a5-9220-7879cfa2c907/ramesh-powar-photo-version-2.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/05/13/f657d209-c6fd-46a5-9220-7879cfa2c907/ramesh-powar-photo-version-2.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/13/f657d209-c6fd-46a5-9220-7879cfa2c907/ramesh-powar-photo-version-2.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">Ramesh Powar appointed Head Coach of Indian Women’s Cricket team</h1>
+                <time class="thumbnail__date">13 May 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/154383/india-retain-top-spot-in-icc-test-rankings">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">4</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/05/13/dadcf31f-f3ba-4393-9aaa-f148b62393b9/PN_9366.JPG?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/13/dadcf31f-f3ba-4393-9aaa-f148b62393b9/PN_9366.JPG?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/05/13/dadcf31f-f3ba-4393-9aaa-f148b62393b9/PN_9366.JPG?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/13/dadcf31f-f3ba-4393-9aaa-f148b62393b9/PN_9366.JPG?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">India retain top spot in ICC Test Rankings</h1>
+                <time class="thumbnail__date">13 May 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/154378/it-s-a-dream-come-true-arzan-nagwaswalla">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">5</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/05/10/85e3d610-3103-4e34-9780-a01169903085/Arzan-Nagwaswalla-2.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/10/85e3d610-3103-4e34-9780-a01169903085/Arzan-Nagwaswalla-2.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/05/10/85e3d610-3103-4e34-9780-a01169903085/Arzan-Nagwaswalla-2.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/10/85e3d610-3103-4e34-9780-a01169903085/Arzan-Nagwaswalla-2.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">It's a dream come true: Arzan Nagwaswalla</h1>
+                <time class="thumbnail__date">10 May 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/154375/india-s-squad-for-wtc-final-and-test-series-against-england-announced">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">6</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/05/07/bf18844d-2242-4c64-9c76-929ed55e1cd6/_AI_0141.JPG?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/07/bf18844d-2242-4c64-9c76-929ed55e1cd6/_AI_0141.JPG?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/05/07/bf18844d-2242-4c64-9c76-929ed55e1cd6/_AI_0141.JPG?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/05/07/bf18844d-2242-4c64-9c76-929ed55e1cd6/_AI_0141.JPG?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text"></span>
+                <h1 class="thumbnail__title">India’s squad for WTC Final and Test series against England announced</h1>
+                <time class="thumbnail__date">07 May 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/154372/india-women-set-to-take-part-in-commonwealth-games-2022">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">7</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/26/ceb457b4-f83d-4160-adae-44353d3541ee/IMG_4484.JPG?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/26/ceb457b4-f83d-4160-adae-44353d3541ee/IMG_4484.JPG?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/26/ceb457b4-f83d-4160-adae-44353d3541ee/IMG_4484.JPG?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/26/ceb457b4-f83d-4160-adae-44353d3541ee/IMG_4484.JPG?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">India Women set to take part in Commonwealth Games 2022</h1>
+                <time class="thumbnail__date">26 April 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/154368/bcci-announces-annual-player-retainership-2020-21-team-india-senior-men-">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">8</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/15/52bae458-2515-4c2c-acba-8abe43989273/PAN_9393.JPG?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/15/52bae458-2515-4c2c-acba-8abe43989273/PAN_9393.JPG?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/15/52bae458-2515-4c2c-acba-8abe43989273/PAN_9393.JPG?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/15/52bae458-2515-4c2c-acba-8abe43989273/PAN_9393.JPG?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">BCCI announces annual player retainership 2020-21 - Team India (Senior Men)</h1>
+                <time class="thumbnail__date">15 April 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/154367/details-of-payments-made-above-rs-25-lakh-for-the-month-of-september-2020-till-february-2021">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">9</span>
+                    </div>
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">Details of payments made above Rs. 25 Lakh for the month of September 2020 till February 2021</h1>
+                <time class="thumbnail__date">15 April 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/153290/teen-sensation-shafali-verma-regains-top-spot-in-t2oi-rankings">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">10</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/23/ed46af86-b9cf-4161-b1be-3a78097087ee/IMG_8037.JPG?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/23/ed46af86-b9cf-4161-b1be-3a78097087ee/IMG_8037.JPG?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/23/ed46af86-b9cf-4161-b1be-3a78097087ee/IMG_8037.JPG?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/23/ed46af86-b9cf-4161-b1be-3a78097087ee/IMG_8037.JPG?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">Teen sensation Shafali Verma regains top spot in T2OI rankings</h1>
+                <time class="thumbnail__date">23 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/153258/bcci-nca-conducts-level-2-coaching-courses-for-international-and-domestic-cricketers">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">11</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">BCCI-NCA conducts Level 2 coaching courses for international and domestic cricketers</h1>
+                <time class="thumbnail__date">23 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/152721/india-s-squad-for-paytm-odi-series-against-england-announced">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">12</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/18/edeb9484-96e8-4474-b6b6-c0f41dd35a90/DM3_3581.JPG?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/18/edeb9484-96e8-4474-b6b6-c0f41dd35a90/DM3_3581.JPG?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/18/edeb9484-96e8-4474-b6b6-c0f41dd35a90/DM3_3581.JPG?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/18/edeb9484-96e8-4474-b6b6-c0f41dd35a90/DM3_3581.JPG?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">India’s squad for Paytm ODI series against England announced</h1>
+                <time class="thumbnail__date">19 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/152229/bcci-invites-bids-for-bcci-ipl-digital-properties">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">13</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">BCCI invites bids for BCCI & IPL Digital Properties</h1>
+                <time class="thumbnail__date">16 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/152256/final-three-t20is-in-ahmedabad-to-be-held-behind-closed-doors">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">14</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/15/815ae638-215c-4b34-af4b-5b0079de7862/_5S_4056-1-.JPG?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/15/815ae638-215c-4b34-af4b-5b0079de7862/_5S_4056-1-.JPG?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/15/815ae638-215c-4b34-af4b-5b0079de7862/_5S_4056-1-.JPG?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/15/815ae638-215c-4b34-af4b-5b0079de7862/_5S_4056-1-.JPG?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">Final three T20Is in Ahmedabad to be held behind closed doors</h1>
+                <time class="thumbnail__date">15 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/151991/vijay-hazare-trophy-2020-21-mumbai-beat-uttar-pradesh-by-6-wickets-to-clinch-the-title">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">15</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/14/9e5f843e-7f11-4f53-a4d0-ce85517a527e/IMG_5697.JPG?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/14/9e5f843e-7f11-4f53-a4d0-ce85517a527e/IMG_5697.JPG?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/14/9e5f843e-7f11-4f53-a4d0-ce85517a527e/IMG_5697.JPG?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/14/9e5f843e-7f11-4f53-a4d0-ce85517a527e/IMG_5697.JPG?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">Vijay Hazare Trophy, 2020-21: Mumbai beat Uttar Pradesh by 6 wickets to clinch the title</h1>
+                <time class="thumbnail__date">14 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/151755/vijay-hazare-trophy-2020-21-uttar-pradesh-mumbai-to-lock-horns-in-final">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">16</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/11/a6461598-7a63-4627-a8b5-c9b4cb7fa5bd/Semi-Final-01-Gujarat-v-Uttar-Pradesh18.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/11/a6461598-7a63-4627-a8b5-c9b4cb7fa5bd/Semi-Final-01-Gujarat-v-Uttar-Pradesh18.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/11/a6461598-7a63-4627-a8b5-c9b4cb7fa5bd/Semi-Final-01-Gujarat-v-Uttar-Pradesh18.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/11/a6461598-7a63-4627-a8b5-c9b4cb7fa5bd/Semi-Final-01-Gujarat-v-Uttar-Pradesh18.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">Vijay Hazare Trophy 2020-21: Uttar Pradesh, Mumbai to lock horns in final</h1>
+                <time class="thumbnail__date">11 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/151701/vijay-hazare-trophy-2020-21-uttar-pradesh-mumbai-enter-semifinals">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">17</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/09/825384a6-35a2-4727-a0e8-3a5abbec6e24/QF2-UP-VS-DELHI-46.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/09/825384a6-35a2-4727-a0e8-3a5abbec6e24/QF2-UP-VS-DELHI-46.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/09/825384a6-35a2-4727-a0e8-3a5abbec6e24/QF2-UP-VS-DELHI-46.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/09/825384a6-35a2-4727-a0e8-3a5abbec6e24/QF2-UP-VS-DELHI-46.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">Vijay Hazare Trophy, 2020-21: Uttar Pradesh, Mumbai enter semifinals</h1>
+                <time class="thumbnail__date">09 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/151616/vijay-hazare-trophy-2020-21-gujarat-karnataka-march-into-semifinals">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">18</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/08/3af599e6-d633-412c-a051-85d2c828368d/QF1-Gujarat-v-Andhra_Panchal-Image-23-1-.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/08/3af599e6-d633-412c-a051-85d2c828368d/QF1-Gujarat-v-Andhra_Panchal-Image-23-1-.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/08/3af599e6-d633-412c-a051-85d2c828368d/QF1-Gujarat-v-Andhra_Panchal-Image-23-1-.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/08/3af599e6-d633-412c-a051-85d2c828368d/QF1-Gujarat-v-Andhra_Panchal-Image-23-1-.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">Vijay Hazare Trophy, 2020-21: Gujarat, Karnataka march into semifinals</h1>
+                <time class="thumbnail__date">08 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/151580/bcci-invites-bids-for-turnkey-design-build-construction-services-for-upcoming-nca-campus">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">19</span>
+                    </div>
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/05/4f40f883-7931-41a1-816c-8926204fff5d/BCCI-Logo.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">BCCI invites bids for Turnkey Design Build Construction Services for upcoming NCA campus</h1>
+                <time class="thumbnail__date">07 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+                <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail  thumbnail--text thumbnail--ranked  u-no-decoration" href="/articles/2021/news/151290/rfps-issued-by-bcci-and-ipl">
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+                <div class="thumbnail__image-container placeholder-transparent">
+                    <div class="thumbnail__image-background">
+                            <span class="thumbnail__rank">20</span>
+                    </div>
+                </div>
+            <div class="thumbnail__caption">
+                <span class="thumbnail__meta meta meta--text">Article</span>
+                <h1 class="thumbnail__title">RFPs issued by BCCI and IPL</h1>
+                <time class="thumbnail__date">05 March 2021</time>
+            </div>
+        </article>
+    </a>
+</li>
+        </ul>
+        <div class="js-paginator"></div>
+    </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+    <section class="widget widget--with-footer widget--galleries  u-margin-top-large" data-content-list
+                        data-playlist-restriction="PHOTO"
+        data-widget="load-more"
+        data-template="load-more.gallery_thumb"
+        data-show-more="false"
+		data-content-types="PLAYLIST"
+        data-tags=""
+        data-references=""
+        data-has-filters="false"
+        data-loader-modifier=""
+        data-page="0"
+        data-num-pages="117"
+        data-page-size="4"
+        data-page-size-loadmore="4"
+ >
+        <div class="widget__header  ">
+                <h1 class="widget__heading"><strong>Some</strong> Galleries</h1>
+
+            <div class="widget__cta">
+                    <a href="/photos" class="button widget__btn button--playlist">
+                        <span class="button__text">More</span>
+                    </a>
+            </div>
+        </div>
+
+        <ul data-content-list class="flex-grid news-list js-news-list block-list-4 block-list-2-tab block-list-1-phab ">
+                <li>
+    <a class="gallery-item u-no-decoration" href="/albums/153211/ind-v-eng-2021-3rd-odi">
+        <article class="gallery-item__container" data-widget="lazy-load-images">
+            <figure class="gallery-item__img-container flex-grid">
+
+
+                <div class="gallery-item__col u-no-padding">
+                        <div class="gallery-item__img gallery-item__img--1 placeholder-transparent">
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/28/dbc8e54e-b64d-4caf-bfe3-371ab05bf34b/PAN_1054.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/28/dbc8e54e-b64d-4caf-bfe3-371ab05bf34b/PAN_1054.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/28/dbc8e54e-b64d-4caf-bfe3-371ab05bf34b/PAN_1054.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/28/dbc8e54e-b64d-4caf-bfe3-371ab05bf34b/PAN_1054.jpg?width=800&height=500"
+
+                data-picture-class="gallery-item__picture"
+                data-image-class="gallery-item__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                        </div>
+                </div>
+
+                <div class="gallery-item__count-container">
+                    <span class="gallery-item__count">
+	<svg class="icon gallery-item__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-camera"></use>
+	</svg>
+                        <span>186</span>
+                    </span>
+                </div>
+            </figure>
+
+            <div class="gallery-item__txt-container">
+                <h1 class="gallery-item__title">IND v ENG 2021, 3rd ODI</h1>
+                <time class="gallery-item__date">28 March 2021</time>
+            </div>
+        </article>
+    </a>
+                </li>
+                <li>
+    <a class="gallery-item u-no-decoration" href="/albums/153210/ind-v-eng-2021-2nd-odi">
+        <article class="gallery-item__container" data-widget="lazy-load-images">
+            <figure class="gallery-item__img-container flex-grid">
+
+
+                <div class="gallery-item__col u-no-padding">
+                        <div class="gallery-item__img gallery-item__img--1 placeholder-transparent">
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/26/ebd36150-ea36-4536-b994-ac6548c9ecee/PAN_9631.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/26/ebd36150-ea36-4536-b994-ac6548c9ecee/PAN_9631.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/26/ebd36150-ea36-4536-b994-ac6548c9ecee/PAN_9631.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/26/ebd36150-ea36-4536-b994-ac6548c9ecee/PAN_9631.jpg?width=800&height=500"
+
+                data-picture-class="gallery-item__picture"
+                data-image-class="gallery-item__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                        </div>
+                </div>
+
+                <div class="gallery-item__count-container">
+                    <span class="gallery-item__count">
+	<svg class="icon gallery-item__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-camera"></use>
+	</svg>
+                        <span>125</span>
+                    </span>
+                </div>
+            </figure>
+
+            <div class="gallery-item__txt-container">
+                <h1 class="gallery-item__title">IND v ENG 2021, 2nd ODI</h1>
+                <time class="gallery-item__date">26 March 2021</time>
+            </div>
+        </article>
+    </a>
+                </li>
+                <li>
+    <a class="gallery-item u-no-decoration" href="/albums/153209/ind-v-eng-2021-1st-odi">
+        <article class="gallery-item__container" data-widget="lazy-load-images">
+            <figure class="gallery-item__img-container flex-grid">
+
+
+                <div class="gallery-item__col u-no-padding">
+                        <div class="gallery-item__img gallery-item__img--1 placeholder-transparent">
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/23/0a454246-cd4c-4d6f-86ba-26f6fa3bc212/PAN_1060.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/23/0a454246-cd4c-4d6f-86ba-26f6fa3bc212/PAN_1060.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/23/0a454246-cd4c-4d6f-86ba-26f6fa3bc212/PAN_1060.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/23/0a454246-cd4c-4d6f-86ba-26f6fa3bc212/PAN_1060.jpg?width=800&height=500"
+
+                data-picture-class="gallery-item__picture"
+                data-image-class="gallery-item__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                        </div>
+                </div>
+
+                <div class="gallery-item__count-container">
+                    <span class="gallery-item__count">
+	<svg class="icon gallery-item__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-camera"></use>
+	</svg>
+                        <span>184</span>
+                    </span>
+                </div>
+            </figure>
+
+            <div class="gallery-item__txt-container">
+                <h1 class="gallery-item__title">IND v ENG 2021, 1st ODI</h1>
+                <time class="gallery-item__date">23 March 2021</time>
+            </div>
+        </article>
+    </a>
+                </li>
+                <li>
+    <a class="gallery-item u-no-decoration" href="/albums/151710/ind-v-eng-2021-5th-t20i">
+        <article class="gallery-item__container" data-widget="lazy-load-images">
+            <figure class="gallery-item__img-container flex-grid">
+
+
+                <div class="gallery-item__col u-no-padding">
+                        <div class="gallery-item__img gallery-item__img--1 placeholder-transparent">
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/20/5f8d8c4c-81ad-42b5-8bf6-7bfb30965dde/PAN_9055.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/20/5f8d8c4c-81ad-42b5-8bf6-7bfb30965dde/PAN_9055.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/20/5f8d8c4c-81ad-42b5-8bf6-7bfb30965dde/PAN_9055.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/bcci/photo/2021/03/20/5f8d8c4c-81ad-42b5-8bf6-7bfb30965dde/PAN_9055.jpg?width=800&height=500"
+
+                data-picture-class="gallery-item__picture"
+                data-image-class="gallery-item__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+                        </div>
+                </div>
+
+                <div class="gallery-item__count-container">
+                    <span class="gallery-item__count">
+	<svg class="icon gallery-item__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-camera"></use>
+	</svg>
+                        <span>118</span>
+                    </span>
+                </div>
+            </figure>
+
+            <div class="gallery-item__txt-container">
+                <h1 class="gallery-item__title">IND v ENG 2021, 5th T20I</h1>
+                <time class="gallery-item__date">20 March 2021</time>
+            </div>
+        </article>
+    </a>
+                </li>
+        </ul>
+
+    </section>
+
+
+
+
+
+
+
+
+    <section class="widget widget--with-footer widget--dark widget--full ">
+        <div class="slider slider--dark" data-widget="content-slider">
+        <div class="widget__header  ">
+                <h1 class="widget__heading"><strong>Latest</strong> Videos</h1>
+
+            <div class="widget__cta">
+    <div class="slider__chev-container slider__chev-container--with-btn">
+        <button class="slider__chev js-prev">
+	<svg class="icon slider__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-chevron-left"></use>
+	</svg>
+        </button>
+        <button class="slider__chev js-next">
+	<svg class="icon slider__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-chevron-right"></use>
+	</svg>
+        </button>
+
+            <div class="slider__control-pipe"></div>
+    </div>
+                    <a href="/videos" class="button widget__btn button--video">
+                        <span class="button__text">More</span>
+                    </a>
+            </div>
+        </div>
+            <ul class="news-list-tablet scroll-grid-phab block-list-4 block-list-2-tab block-list-1-phab js-slide slider__list">
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154362/womens-senior-one-day-trophy-2020-21-final-jharkhand-vs-railways-match-highlights"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154362,
+            "mediaId":6246525284001,
+            "link" : "\/videos/154362/womens-senior-one-day-trophy-2020-21-final-jharkhand-vs-railways-match-highlights",
+            "mediaTitle":"Womens Senior One Day Trophy 2020-21,Final - Jharkhand Vs RAILWAYS : Match Highlights",
+            "mediaDescription":"",
+            "date":"04 April 2021",
+            "duration":"593"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/fd1f95e5-b1af-4918-b1d4-9675c795e0ee/AhGWzJJL.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/fd1f95e5-b1af-4918-b1d4-9675c795e0ee/AhGWzJJL.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/fd1f95e5-b1af-4918-b1d4-9675c795e0ee/AhGWzJJL.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/fd1f95e5-b1af-4918-b1d4-9675c795e0ee/AhGWzJJL.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        09:53
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Womens Senior One Day Trophy 2020-21,Final - Jharkhand Vs RAILWAYS : Match Highlights</h1>
+                <time class="thumbnail__date">04 April 2021</time>
+                    <span class="thumbnail__views">&bull; 34,730 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154359/s-meghana-s-opening-act-of-53-67-vs-jharkhand"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154359,
+            "mediaId":6246523023001,
+            "link" : "\/videos/154359/s-meghana-s-opening-act-of-53-67-vs-jharkhand",
+            "mediaTitle":"S Meghana&#39s opening act of 53 (67) vs Jharkhand",
+            "mediaDescription":"The right-hander scored a vital half-century for Railways and put up a 107-run stand with Punam Raut.",
+            "date":"04 April 2021",
+            "duration":"153"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/10a05703-a921-4e3d-82b8-8e4a81a2ed18/s7LXpNXb.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/10a05703-a921-4e3d-82b8-8e4a81a2ed18/s7LXpNXb.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/10a05703-a921-4e3d-82b8-8e4a81a2ed18/s7LXpNXb.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/10a05703-a921-4e3d-82b8-8e4a81a2ed18/s7LXpNXb.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        02:33
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">S Meghana's opening act of 53 (67) vs Jharkhand</h1>
+                <time class="thumbnail__date">04 April 2021</time>
+                    <span class="thumbnail__views">&bull; 59,469 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154356/womens-senior-one-day-trophy-2020-21-final-jharkhand-vs-railways-fall-of-wickets"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154356,
+            "mediaId":6246524564001,
+            "link" : "\/videos/154356/womens-senior-one-day-trophy-2020-21-final-jharkhand-vs-railways-fall-of-wickets",
+            "mediaTitle":"Womens Senior One Day Trophy 2020-21,Final - Jharkhand Vs RAILWAYS: Fall of Wickets",
+            "mediaDescription":"",
+            "date":"04 April 2021",
+            "duration":"330"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/ff568e40-6189-461c-abd7-42e2ff4ff3da/lcurJ30q.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/ff568e40-6189-461c-abd7-42e2ff4ff3da/lcurJ30q.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/ff568e40-6189-461c-abd7-42e2ff4ff3da/lcurJ30q.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/ff568e40-6189-461c-abd7-42e2ff4ff3da/lcurJ30q.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        05:30
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Womens Senior One Day Trophy 2020-21,Final - Jharkhand Vs RAILWAYS: Fall of Wickets</h1>
+                <time class="thumbnail__date">04 April 2021</time>
+                    <span class="thumbnail__views">&bull; 4,560 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154353/womens-senior-one-day-trophy-2020-21-final-jharkhand-vs-railways-super-sixes"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154353,
+            "mediaId":6246524814001,
+            "link" : "\/videos/154353/womens-senior-one-day-trophy-2020-21-final-jharkhand-vs-railways-super-sixes",
+            "mediaTitle":"Womens Senior One Day Trophy 2020-21, Final - Jharkhand Vs RAILWAYS : Super sixes",
+            "mediaDescription":"",
+            "date":"04 April 2021",
+            "duration":"56"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/4d1b6cc9-6fb8-4bdc-81e1-f9253fa7adfe/peX2QRfM.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/4d1b6cc9-6fb8-4bdc-81e1-f9253fa7adfe/peX2QRfM.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/4d1b6cc9-6fb8-4bdc-81e1-f9253fa7adfe/peX2QRfM.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/4d1b6cc9-6fb8-4bdc-81e1-f9253fa7adfe/peX2QRfM.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        00:56
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Womens Senior One Day Trophy 2020-21, Final - Jharkhand Vs RAILWAYS : Super sixes</h1>
+                <time class="thumbnail__date">04 April 2021</time>
+                    <span class="thumbnail__views">&bull; 3,465 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154350/punam-raut-s-solid-59-94-vs-jharkhand"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154350,
+            "mediaId":6246524158001,
+            "link" : "\/videos/154350/punam-raut-s-solid-59-94-vs-jharkhand",
+            "mediaTitle":"Punam Raut&#39s solid 59 (94) vs Jharkhand",
+            "mediaDescription":"The veteran right-hander scored a fine half-century in the all-important final for Railways.",
+            "date":"04 April 2021",
+            "duration":"227"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/4a744ec5-b296-444e-818d-0a88b02afbb2/zln4vCUF.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/4a744ec5-b296-444e-818d-0a88b02afbb2/zln4vCUF.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/4a744ec5-b296-444e-818d-0a88b02afbb2/zln4vCUF.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/4a744ec5-b296-444e-818d-0a88b02afbb2/zln4vCUF.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        03:47
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Punam Raut's solid 59 (94) vs Jharkhand</h1>
+                <time class="thumbnail__date">04 April 2021</time>
+                    <span class="thumbnail__views">&bull; 32,206 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154346/ritu-kumari-s-direct-hit-to-run-out-nuzhat-parween"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154346,
+            "mediaId":6246510428001,
+            "link" : "\/videos/154346/ritu-kumari-s-direct-hit-to-run-out-nuzhat-parween",
+            "mediaTitle":"Ritu Kumari&#39s direct hit to run out Nuzhat Parween",
+            "mediaDescription":"Jharkhand&#39s Ritu Kumari ran in from mid-on, collected the ball cleanly and hit the stumps at the bowler&#39s end to catch Parween short of her crease.",
+            "date":"04 April 2021",
+            "duration":"43"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/5af1a1ac-b12d-44c9-a304-0076c2ba9394/z7yZ3wth.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/5af1a1ac-b12d-44c9-a304-0076c2ba9394/z7yZ3wth.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/5af1a1ac-b12d-44c9-a304-0076c2ba9394/z7yZ3wth.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/5af1a1ac-b12d-44c9-a304-0076c2ba9394/z7yZ3wth.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        00:43
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Ritu Kumari's direct hit to run out Nuzhat Parween</h1>
+                <time class="thumbnail__date">04 April 2021</time>
+                    <span class="thumbnail__views">&bull; 7,088 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154344/indrani-roy-s-fighting-49-77-vs-railways"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154344,
+            "mediaId":6246512846001,
+            "link" : "\/videos/154344/indrani-roy-s-fighting-49-77-vs-railways",
+            "mediaTitle":"Indrani Roy&#39s fighting 49 (77) vs Railways",
+            "mediaDescription":"The Jharkhand opener scored a valiant 49 with the help of 3 fours.",
+            "date":"04 April 2021",
+            "duration":"92"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/e3ab7e41-ac03-42ae-829d-3e584488ff64/hzLoRVsj.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/e3ab7e41-ac03-42ae-829d-3e584488ff64/hzLoRVsj.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/e3ab7e41-ac03-42ae-829d-3e584488ff64/hzLoRVsj.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/e3ab7e41-ac03-42ae-829d-3e584488ff64/hzLoRVsj.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        01:32
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Indrani Roy's fighting 49 (77) vs Railways</h1>
+                <time class="thumbnail__date">04 April 2021</time>
+                    <span class="thumbnail__views">&bull; 3,194 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154341/sneh-rana-s-impressive-3-33-against-jharkhand"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154341,
+            "mediaId":6246510970001,
+            "link" : "\/videos/154341/sneh-rana-s-impressive-3-33-against-jharkhand",
+            "mediaTitle":"Sneh Rana&#39s impressive 3/33 against Jharkhand",
+            "mediaDescription":"Railways&#39 right-arm off-spinner put up an impressive show with the ball in the all-important final and scalped three Jharkhand wickets.",
+            "date":"04 April 2021",
+            "duration":"68"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/c949d2a5-b09d-487e-b679-20a1fe7d8844/U4WhGo0l.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/c949d2a5-b09d-487e-b679-20a1fe7d8844/U4WhGo0l.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/c949d2a5-b09d-487e-b679-20a1fe7d8844/U4WhGo0l.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/c949d2a5-b09d-487e-b679-20a1fe7d8844/U4WhGo0l.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        01:08
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Sneh Rana's impressive 3/33 against Jharkhand</h1>
+                <time class="thumbnail__date">04 April 2021</time>
+                    <span class="thumbnail__views">&bull; 2,534 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154338/nuzhat-parween-s-sharp-catch"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154338,
+            "mediaId":6246503427001,
+            "link" : "\/videos/154338/nuzhat-parween-s-sharp-catch",
+            "mediaTitle":"Nuzhat Parween&#39s sharp catch",
+            "mediaDescription":"The Railways wicketkeeper was alert and took a fine catch off Sneh Rana&#39s bowling to dismiss Durga Murmu.",
+            "date":"04 April 2021",
+            "duration":"25"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/80347879-df99-4e01-9118-ff0185d67b0f/pIt1lQvv.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/80347879-df99-4e01-9118-ff0185d67b0f/pIt1lQvv.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/80347879-df99-4e01-9118-ff0185d67b0f/pIt1lQvv.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/80347879-df99-4e01-9118-ff0185d67b0f/pIt1lQvv.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        00:25
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Nuzhat Parween's sharp catch</h1>
+                <time class="thumbnail__date">04 April 2021</time>
+                    <span class="thumbnail__views">&bull; 2,682 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154335/meghna-singh-s-double-wicket-over"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154335,
+            "mediaId":6246500356001,
+            "link" : "\/videos/154335/meghna-singh-s-double-wicket-over",
+            "mediaTitle":"Meghna Singh&#39s double-wicket over",
+            "mediaDescription":"The Railways pacer scalped two Jharkhand wickets in an over, dismissing Ritu Kumari and Radhey Sonia.",
+            "date":"04 April 2021",
+            "duration":"43"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/276acd90-aecb-4089-b6bb-0b4dbdadd798/KrOnzCS7.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/276acd90-aecb-4089-b6bb-0b4dbdadd798/KrOnzCS7.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/04/276acd90-aecb-4089-b6bb-0b4dbdadd798/KrOnzCS7.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/04/276acd90-aecb-4089-b6bb-0b4dbdadd798/KrOnzCS7.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        00:43
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Meghna Singh's double-wicket over</h1>
+                <time class="thumbnail__date">04 April 2021</time>
+                    <span class="thumbnail__views">&bull; 5,566 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154330/womens-senior-one-day-trophy-2020-21-sf2-railways-vs-bengal-match-highlights"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154330,
+            "mediaId":6245999644001,
+            "link" : "\/videos/154330/womens-senior-one-day-trophy-2020-21-sf2-railways-vs-bengal-match-highlights",
+            "mediaTitle":"Womens Senior One Day Trophy 2020-21,SF2 - RAILWAYS Vs BENGAL : Match Highlights",
+            "mediaDescription":"",
+            "date":"01 April 2021",
+            "duration":"736"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/c558836a-163b-42c7-95c0-8e06cd21ef09/JahZY2S5.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/c558836a-163b-42c7-95c0-8e06cd21ef09/JahZY2S5.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/c558836a-163b-42c7-95c0-8e06cd21ef09/JahZY2S5.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/c558836a-163b-42c7-95c0-8e06cd21ef09/JahZY2S5.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        12:16
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Womens Senior One Day Trophy 2020-21,SF2 - RAILWAYS Vs BENGAL : Match Highlights</h1>
+                <time class="thumbnail__date">01 April 2021</time>
+                    <span class="thumbnail__views">&bull; 15,279 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154328/womens-senior-one-day-trophy-2020-21-sf2-railways-vs-bengal-fall-of-wickets"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154328,
+            "mediaId":6246002628001,
+            "link" : "\/videos/154328/womens-senior-one-day-trophy-2020-21-sf2-railways-vs-bengal-fall-of-wickets",
+            "mediaTitle":"Womens Senior One Day Trophy 2020-21,SF2 - RAILWAYS Vs BENGAL : Fall of Wickets",
+            "mediaDescription":"",
+            "date":"01 April 2021",
+            "duration":"224"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/627f17cf-dc26-44c3-9e8f-ec2b7e5b9ba7/eiKqiGOL.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/627f17cf-dc26-44c3-9e8f-ec2b7e5b9ba7/eiKqiGOL.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/627f17cf-dc26-44c3-9e8f-ec2b7e5b9ba7/eiKqiGOL.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/627f17cf-dc26-44c3-9e8f-ec2b7e5b9ba7/eiKqiGOL.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        03:44
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Womens Senior One Day Trophy 2020-21,SF2 - RAILWAYS Vs BENGAL : Fall of Wickets</h1>
+                <time class="thumbnail__date">01 April 2021</time>
+                    <span class="thumbnail__views">&bull; 6,626 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154325/punam-raut-s-fighting-69-90-"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154325,
+            "mediaId":6245995807001,
+            "link" : "\/videos/154325/punam-raut-s-fighting-69-90-",
+            "mediaTitle":"Punam Raut&#39s fighting 69 (90)",
+            "mediaDescription":"The right-hander had to walk off the field retired hurt but not before she had scored a vital half-century to lay a foundation for Railways&#39 semifinal win over Bengal.",
+            "date":"01 April 2021",
+            "duration":"181"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/55b1826f-2383-45b7-be4d-1c3c615df051/dajv8X75.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/55b1826f-2383-45b7-be4d-1c3c615df051/dajv8X75.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/55b1826f-2383-45b7-be4d-1c3c615df051/dajv8X75.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/55b1826f-2383-45b7-be4d-1c3c615df051/dajv8X75.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        03:01
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Punam Raut's fighting 69 (90)</h1>
+                <time class="thumbnail__date">01 April 2021</time>
+                    <span class="thumbnail__views">&bull; 2,963 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154322/womens-senior-one-day-trophy-2020-21-sf2-railways-vs-bengal-super-sixes"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154322,
+            "mediaId":6245990023001,
+            "link" : "\/videos/154322/womens-senior-one-day-trophy-2020-21-sf2-railways-vs-bengal-super-sixes",
+            "mediaTitle":"Womens Senior One Day Trophy 2020-21, SF2 - RAILWAYS Vs BENGAL : Super sixes",
+            "mediaDescription":"",
+            "date":"01 April 2021",
+            "duration":"67"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/bbe4dc27-432b-469b-8710-d97087e1450b/TkIuduTc.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/bbe4dc27-432b-469b-8710-d97087e1450b/TkIuduTc.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/bbe4dc27-432b-469b-8710-d97087e1450b/TkIuduTc.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/bbe4dc27-432b-469b-8710-d97087e1450b/TkIuduTc.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        01:07
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Womens Senior One Day Trophy 2020-21, SF2 - RAILWAYS Vs BENGAL : Super sixes</h1>
+                <time class="thumbnail__date">01 April 2021</time>
+                    <span class="thumbnail__views">&bull; 1,653 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154320/deepti-sharma-s-superb-opening-act-of-113-148-vs-railways"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154320,
+            "mediaId":6245952461001,
+            "link" : "\/videos/154320/deepti-sharma-s-superb-opening-act-of-113-148-vs-railways",
+            "mediaTitle":"Deepti Sharma&#39s superb opening act of 113 (148) vs Railways",
+            "mediaDescription":"Deepti continued her good batting form and scored a vital hundred with the help of 15 fours in the semifinal clash against Railways.",
+            "date":"01 April 2021",
+            "duration":"315"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/8964621e-5989-43c9-9d96-c214bb65717b/2qen7cJ8.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/8964621e-5989-43c9-9d96-c214bb65717b/2qen7cJ8.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/8964621e-5989-43c9-9d96-c214bb65717b/2qen7cJ8.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/8964621e-5989-43c9-9d96-c214bb65717b/2qen7cJ8.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        05:15
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Deepti Sharma's superb opening act of 113 (148) vs Railways</h1>
+                <time class="thumbnail__date">01 April 2021</time>
+                    <span class="thumbnail__views">&bull; 5,857 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154318/mona-meshram-s-fine-fielding-effort-to-run-out-mita-paul"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154318,
+            "mediaId":6245911092001,
+            "link" : "\/videos/154318/mona-meshram-s-fine-fielding-effort-to-run-out-mita-paul",
+            "mediaTitle":"Mona Meshram&#39s fine fielding effort to run out Mita Paul",
+            "mediaDescription":"Stationed at covers, Mona ran in, collected the ball cleanly and threw it towards the keeper to catch Mita Paul short of her crease just by inches.",
+            "date":"01 April 2021",
+            "duration":"125"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/9bb335ad-ac8b-4071-8cb6-0099902c8651/dQZibv0H.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/9bb335ad-ac8b-4071-8cb6-0099902c8651/dQZibv0H.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/04/01/9bb335ad-ac8b-4071-8cb6-0099902c8651/dQZibv0H.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/04/01/9bb335ad-ac8b-4071-8cb6-0099902c8651/dQZibv0H.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        02:05
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Mona Meshram's fine fielding effort to run out Mita Paul</h1>
+                <time class="thumbnail__date">01 April 2021</time>
+                    <span class="thumbnail__views">&bull; 4,130 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154307/womens-senior-one-day-trophy-2020-21-qf3-andhra-vs-vidarbha-match-highlights"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154307,
+            "mediaId":6245406970001,
+            "link" : "\/videos/154307/womens-senior-one-day-trophy-2020-21-qf3-andhra-vs-vidarbha-match-highlights",
+            "mediaTitle":"Womens Senior One Day Trophy 2020-21,QF3 - ANDHRA Vs VIDARBHA : Match Highlights",
+            "mediaDescription":"",
+            "date":"30 March 2021",
+            "duration":"788"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/30/cac77b0d-1d39-49c6-90a4-caffab7537a8/pt8ZlFGV.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/30/cac77b0d-1d39-49c6-90a4-caffab7537a8/pt8ZlFGV.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/30/cac77b0d-1d39-49c6-90a4-caffab7537a8/pt8ZlFGV.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/30/cac77b0d-1d39-49c6-90a4-caffab7537a8/pt8ZlFGV.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        13:08
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Womens Senior One Day Trophy 2020-21,QF3 - ANDHRA Vs VIDARBHA : Match Highlights</h1>
+                <time class="thumbnail__date">30 March 2021</time>
+                    <span class="thumbnail__views">&bull; 8,047 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154312/c-h-jhansi-lakshmi-s-double-wicket-maiden"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154312,
+            "mediaId":6245405107001,
+            "link" : "\/videos/154312/c-h-jhansi-lakshmi-s-double-wicket-maiden",
+            "mediaTitle":"C H Jhansi Lakshmi&#39s double-wicket maiden",
+            "mediaDescription":"Bowling off-spin, C H Jhansi Lakshmi dismissed Harsha Bokde and Reena Paul in her fifth over of the match.",
+            "date":"30 March 2021",
+            "duration":"39"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/30/678a7390-1758-4403-9c8d-04ab166ad06c/43ZYA0Fx.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/30/678a7390-1758-4403-9c8d-04ab166ad06c/43ZYA0Fx.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/30/678a7390-1758-4403-9c8d-04ab166ad06c/43ZYA0Fx.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/30/678a7390-1758-4403-9c8d-04ab166ad06c/43ZYA0Fx.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        00:39
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">C H Jhansi Lakshmi's double-wicket maiden</h1>
+                <time class="thumbnail__date">30 March 2021</time>
+                    <span class="thumbnail__views">&bull; 7,502 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154315/c-h-jhansi-lakshmi-s-match-winning-5-26-vs-vidarbha"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154315,
+            "mediaId":6245406090001,
+            "link" : "\/videos/154315/c-h-jhansi-lakshmi-s-match-winning-5-26-vs-vidarbha",
+            "mediaTitle":"C H Jhansi Lakshmi&#39s match-winning 5/26 vs Vidarbha",
+            "mediaDescription":"C H Jhansi Lakshmi ran through the Vidarbha batting line-up and scalped five wickets to help Andhra seal a place in the semifinals.",
+            "date":"30 March 2021",
+            "duration":"98"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/30/1e334abb-65bc-4577-bcd6-bde518439266/s1wEhxiL.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/30/1e334abb-65bc-4577-bcd6-bde518439266/s1wEhxiL.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/30/1e334abb-65bc-4577-bcd6-bde518439266/s1wEhxiL.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/30/1e334abb-65bc-4577-bcd6-bde518439266/s1wEhxiL.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        01:38
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">C H Jhansi Lakshmi's match-winning 5/26 vs Vidarbha</h1>
+                <time class="thumbnail__date">30 March 2021</time>
+                    <span class="thumbnail__views">&bull; 4,857 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+                    <li class="js-thumb slider__item u-no-margin">    <a class="thumbnail thumbnail--video   u-no-decoration" href="/videos/154310/womens-senior-one-day-trophy-2020-21-qf3-andhra-vs-vidarbha-fall-of-wickets"
+        data-ui-modal="#videoPlayer"
+        data-ui-args='{
+            "contentId": 154310,
+            "mediaId":6245405004001,
+            "link" : "\/videos/154310/womens-senior-one-day-trophy-2020-21-qf3-andhra-vs-vidarbha-fall-of-wickets",
+            "mediaTitle":"Womens Senior One Day Trophy 2020-21,QF3 - ANDHRA Vs VIDARBHA : Fall of Wickets",
+            "mediaDescription":"",
+            "date":"30 March 2021",
+            "duration":"348"}'
+    >
+        <article class="thumbnail__container" data-widget="lazy-load-images">
+            <div class="thumbnail__image-container">
+                <div class="thumbnail__image-background">
+                </div>
+
+
+
+
+
+
+            <div class="js-lazy-load lazy-load"
+                    data-desktop-img="https://resources.platform.bcci.tv/photo-resources/2021/03/30/84ac98e8-2a37-4ec0-83c6-cd52d98b49b0/aB8wTnD6.jpg?width=400&height=250"
+                    data-desktop-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/30/84ac98e8-2a37-4ec0-83c6-cd52d98b49b0/aB8wTnD6.jpg?width=400&height=250"
+                    data-tablet-img=""
+                    data-tablet-img-retina=""
+                    data-mobile-img="https://resources.platform.bcci.tv/photo-resources/2021/03/30/84ac98e8-2a37-4ec0-83c6-cd52d98b49b0/aB8wTnD6.jpg?width=400&height=250"
+                    data-mobile-img-retina="https://resources.platform.bcci.tv/photo-resources/2021/03/30/84ac98e8-2a37-4ec0-83c6-cd52d98b49b0/aB8wTnD6.jpg?width=800&height=500"
+
+                data-picture-class="thumbnail__picture"
+                data-image-class="thumbnail__image"
+                data-picture-in-view="false"
+                data-object-fit="true">
+            </div>
+
+
+                <span class="thumbnail__play play-icon">
+	<svg class="icon play-icon__icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                </span>
+            </div>
+            <div class="thumbnail__caption">
+                <span class="meta meta--video ">
+                    <span class="meta__tag">
+                        Video
+                    </span>
+                    <time class="meta__duration">
+	<svg class="icon meta__duration-icon">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-play"></use>
+	</svg>
+                        <span class="meta__duration-text">        05:48
+</span>
+                    </time>
+                </span>
+                <h1 class="thumbnail__title ">Womens Senior One Day Trophy 2020-21,QF3 - ANDHRA Vs VIDARBHA : Fall of Wickets</h1>
+                <time class="thumbnail__date">30 March 2021</time>
+                    <span class="thumbnail__views">&bull; 2,086 Views</span>
+            </div>
+        </article>
+    </a>
+</li>
+            </ul>
+            <div class="js-paginator"></div>
+        </div>
+    </section>
+
+        </div>
+        <div class="page-content__bottom">
+            
+    <section class="sponsors">
+        <ul class="sponsors__list">
+                <li class="sponsors__item sponsors__item--top">
+                        <a href="/" target="_self" class="sponsors__sponsor icn icn-sponsor-byjus"></a>
+                    <span class="sponsors__title">Team sponsor</span>
+                </li>
+                <li class="sponsors__item sponsors__item--top">
+                        <a href="/" target="_self" class="sponsors__sponsor icn icn-sponsor-star-sports"></a>
+                    <span class="sponsors__title">Official broadcaster</span>
+                </li>
+                <li class="sponsors__item sponsors__item--top">
+                        <a href="/" target="_self" class="sponsors__sponsor icn icn-sponsor-paytm"></a>
+                    <span class="sponsors__title">Title sponsor</span>
+                </li>
+                <li class="sponsors__item sponsors__item--top">
+                        <ul class="sponsors__list sponsors__list--inner">
+                    <li class="sponsors__item sponsors__item--inner">
+                        <a href="/" target="_self" class="icn icn-sponsor-dream-11 sponsors__sponsor"></a>
+                    </li>
+                    <li class="sponsors__item sponsors__item--inner">
+                        <a href="/" target="_self" class="icn icn-sponsor-hyundai sponsors__sponsor"></a>
+                    </li>
+                    <li class="sponsors__item sponsors__item--inner">
+                        <a href="/" target="_self" class="icn icn-sponsor-ambuja sponsors__sponsor"></a>
+                    </li>
+                        </ul>
+                    <span class="sponsors__title">Official partners</span>
+                </li>
+                <li class="sponsors__item sponsors__item--top">
+                        <a href="/" target="_self" class="sponsors__sponsor icn icn-sponsor-mpl"></a>
+                    <span class="sponsors__title">Kit sponsor</span>
+                </li>
+        </ul>
+    </section>
+
+        </div>
+    </div>
+</div>
+
+</div>
+
+<footer class="footer">
+	<img class="branding-asset-top" src="/resources/prod/v2.0.0/i/svg-files/assets/top-right.svg" aria-hidden="true"/>
+    <div class="footer__wrapper">
+        <div class="footer__logo">
+	<svg class="icon footer__logo-img">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-bcci-logo"></use>
+	</svg>
+            <span class="footer__title">BCCI</span>
+            <span class="footer__subtitle">The Board of Control for Cricket in India</span>
+        </div>
+
+        <nav>
+            <ul class="footer-navigation">
+	                <li class="footer-navigation__item">
+                        <h4 class="footer-navigation__title">Home</h4>
+						<ul class="footer-navigation footer-navigation--secondary">
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/" class="footer-navigation__link">Home</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/articles" class="footer-navigation__link">News</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/features" class="footer-navigation__link">Features</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/press-releases" class="footer-navigation__link">Press Releases</a></li>
+						</ul>
+					</li>
+	                <li class="footer-navigation__item">
+                        <h4 class="footer-navigation__title">International</h4>
+						<ul class="footer-navigation footer-navigation--secondary">
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/international/fixtures" class="footer-navigation__link">Fixtures</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/international/results" class="footer-navigation__link">Results</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/international/series-and-tournaments" class="footer-navigation__link">Series & Tournaments</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/international/archive" class="footer-navigation__link">Archive</a></li>
+						</ul>
+					</li>
+	                <li class="footer-navigation__item">
+                        <h4 class="footer-navigation__title">Domestic</h4>
+						<ul class="footer-navigation footer-navigation--secondary">
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/domestic/fixtures" class="footer-navigation__link">Fixtures</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/domestic/results" class="footer-navigation__link">Results</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/domestic/series-and-tournaments" class="footer-navigation__link">Series & Tournaments</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/domestic/archive" class="footer-navigation__link">Archive</a></li>
+						</ul>
+					</li>
+	                <li class="footer-navigation__item">
+                        <h4 class="footer-navigation__title">Videos</h4>
+						<ul class="footer-navigation footer-navigation--secondary">
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/videos" class="footer-navigation__link">Latest Videos</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/videos/highlights" class="footer-navigation__link">Highlights</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/videos/features-and-interviews" class="footer-navigation__link">Features & Interviews</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/videos/features-and-interviews" class="footer-navigation__link">Press Conferences</a></li>
+						</ul>
+					</li>
+	                <li class="footer-navigation__item">
+                        <h4 class="footer-navigation__title">Players</h4>
+						<ul class="footer-navigation footer-navigation--secondary">
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/players/men" class="footer-navigation__link">Team India Men</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/players/women" class="footer-navigation__link">Team India Women</a></li>
+						</ul>
+					</li>
+	                <li class="footer-navigation__item">
+                        <h4 class="footer-navigation__title">Photo Galleries</h4>
+						<ul class="footer-navigation footer-navigation--secondary">
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="\albums" class="footer-navigation__link">Photos Home</a></li>
+						</ul>
+					</li>
+	                <li class="footer-navigation__item">
+                        <h4 class="footer-navigation__title">Other</h4>
+						<ul class="footer-navigation footer-navigation--secondary">
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/about" class="footer-navigation__link">About</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/articles/2018/news/101954/bcci-constitution" class="footer-navigation__link">BCCI Constitution</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/venues" class="footer-navigation__link">Venues</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/polls" class="footer-navigation__link">Polls</a></li>
+                	<li class="footer-navigation__item footer-navigation__item--secondary"><a href="/about/jobs" class="footer-navigation__link">Jobs</a></li>
+						</ul>
+					</li>
+            </ul>
+        </nav>
+
+        
+    <div class="social social--show-title social--icons-only">
+            <h3 class="social__title">Follow <strong>#BCCI</strong></h3>
+        <ul class="social__menu">
+                <li class="social__item">
+                    <a href="https://www.facebook.com/IndianCricketTeam/" class="social__link social__link--facebook">
+                            <span class="social__icon">
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-facebook"></use>
+	</svg>
+                            </span>
+                        <span class="social__text">
+                            Facebook
+                        </span>
+                    </a>
+                </li>
+                <li class="social__item">
+                    <a href="https://www.instagram.com/indiancricketteam/" class="social__link social__link--instagram">
+                            <span class="social__icon">
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-instagram"></use>
+	</svg>
+                            </span>
+                        <span class="social__text">
+                            Instagram
+                        </span>
+                    </a>
+                </li>
+                <li class="social__item">
+                    <a href="https://twitter.com/BCCI" class="social__link social__link--twitter">
+                            <span class="social__icon">
+	<svg class="icon ">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-twitter"></use>
+	</svg>
+                            </span>
+                        <span class="social__text">
+                            Twitter
+                        </span>
+                    </a>
+                </li>
+        </ul>
+    </div>
+
+
+        
+<div class="footer__bottom bottom-bar">
+    <span class="bottom-bar__copy">&copy; Copyright BCCI 2021. All Rights Reserved.</span>
+
+    <ul class="bottom-bar__menu">
+                <li class="bottom-bar__item"><a href="/terms-and-conditions" target="_self" class="bottom-bar__link">Terms & Conditions</a></li>
+                <li class="bottom-bar__item"><a href="/privacy-policy" target="_self" class="bottom-bar__link">Privacy Policy</a></li>
+                <li class="bottom-bar__item"><a href="/sitemap" target="_self" class="bottom-bar__link">Site Map</a></li>
+    </ul>
+</div>
+    </div>
+	<img class="branding-asset-bottom" src="/resources/prod/v2.0.0/i/svg-files/assets/bottom-left.svg" aria-hidden="true"/>
+</footer>
+
+<div class="modal" id="videoPlayer" data-widget="modal">
+    <div class="modal__inner-wrapper">
+        <a href="#" class="modal__close js-modal-close">
+            <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/resources/prod/v2.0.0/i/svg-output/icons.svg#icn-close"></use></svg>
+        </a>
+        <div class="fixed-cols fixed-cols--modal fixed-cols--t-dark">
+            <div class="flex-grid">
+                <div class="col-9 col-8-wide col-12-desk col-12-m fixed-cols__primary js-main-col">
+                    <div class="fixed-cols__primary-top js-single-video">
+                        <section class="video-player video-player--modal wrapper" data-widget="video-page-player" data-player-name="playlistPlayer">
+	<img class="video-player__branding-asset branding-asset-top" src="/resources/prod/v2.0.0/i/svg-files/assets/top-right.svg" aria-hidden="true"/>
+                            <div class="inline-player"
+                                data-script="bcci-tv_video"
+                                data-widget="video-player">
+
+                                <video id="playlistPlayer"
+                                    data-video-id=""
+                                    data-account="3588749423001"
+                                    data-player="Y5cFT70XGK"
+                                    data-embed="default"
+                                    class="inline-player__content video-js"
+                                    controls
+                                    autoplay=true
+                                    data-tracker-action="VIEW"
+                                    data-tracker-type="VIDEO"
+                                    data-tracker-id=""></video>
+                            </div>
+                            <div class="video-player__details col-12">
+                                <h1 class="video-player__title js-player-title"></h1>
+                                <p class="video-player__description js-player-description"></p>
+                                <ul class="inline-list">
+                                    <li class="video-player__date js-player-date"></li>
+                                </ul>
+                            </div>
+                            <div class="video-player__share col-10 col-12-tab js-video-share">
+                            </div>
+                        </section>
+                    </div>
+                    <div class="fixed-cols__primary-bottom js-additional-content u-hide-desktop">
+                        <section class="widget"
+                            data-widget="content-list-loader"
+                            data-title="BCCI Video"
+                            data-tags="bcci"
+                            data-link-to="/videos"
+                            data-content-type="video"></section>
+                        <section class="widget"
+                            data-widget="content-list-loader"
+                            data-title="Latest Videos"
+                            data-tags="bcci"
+                            data-link-to="/videos"
+                            data-content-type="video"></section>
+                    </div>
+                </div>
+                <div class="col-3 col-4-wide col-12-desk fixed-cols__secondary js-video-sidebar js-sidebar-desktop">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+        
+<script src="/resources/prod/v2.0.0/scripts/vendors.min.js"></script>
+<script src="/resources/prod/v2.0.0/scripts/main.min.js"></script>
+<script src="/resources/prod/v2.0.0/widgets/common.min.js"></script>
+
+        <!--[if IE]> -->
+        <script type="text/javascript">
+            svg4everybody();
+        </script>
+        <!-- <![endif]-->
+
+        
+
+    </body>
+</html>
